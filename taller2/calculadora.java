@@ -13,7 +13,7 @@ public class Calculadora {
     
     public double division(double a, double b) {
         if (b == 0) {
-            throw new ArithmeticException("División por cero");
+            throw new ArithmeticException("no se puede dividir por cero por favor agrega otro numero");
         }
         return a / b;
     }
