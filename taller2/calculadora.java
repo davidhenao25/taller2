@@ -1,4 +1,4 @@
-public class Calculadora {
+public class calculadora {
     public double suma(double a, double b) {
         return a + b;
     }
