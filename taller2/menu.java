@@ -17,7 +17,7 @@ public class menu {
             System.out.println("5. Multiplicar");
             System.out.println("6. Dividir");
             System.out.println("7. Salir");
-            System.out.print("Selecciona una opción: ");
+            System.out.println("Selecciona una opción: ");
          
          int opcion;
          try {
@@ -90,3 +90,4 @@ public class menu {
         }
     }
 }
+
